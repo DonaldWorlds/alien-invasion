@@ -74,6 +74,3 @@ Ensure you have Python and Pygame installed on your system:
 
 Enjoy playing Alien Invasion and have fun!
 
----
-
-This README provides clear instructions on gameplay, installation, and running the game, ensuring players can quickly get started and enjoy the game. Adjustments can be made based on specific details or additional features of your game.
