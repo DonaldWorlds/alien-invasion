@@ -1,7 +1,3 @@
-Here's the revised README file for the Alien Invasion game:
-
----
-
 # Alien Invasion Game
 
 ## Overview
